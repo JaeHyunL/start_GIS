@@ -6,7 +6,7 @@
 
  
 
-## 지도에 무언가 대입하기
+## 지도에 무언가 대입하기(라벨달기)
 
 
 
@@ -88,12 +88,38 @@ https://github.com/JaeHyunL/start_GIS/blob/master/second_class/AL_41480_D196_202
 
 ![image](https://user-images.githubusercontent.com/48937399/106728495-d95afb00-664f-11eb-844c-4c507cbabbd9.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/48937399/106728335-add81080-664f-11eb-8534-0fc7c5461780.png)
 
 뭐 이러한 녀석이뜨네요 
 
-
-
 안에 속성정보들이 담겨있는것 같네요 
+
+제가 첨부한 파일은 국가공간정보포털에서 제공하는 파주시 건물 연령 데이터 였습니다 . 
+
+
+
+![image](https://user-images.githubusercontent.com/48937399/106861291-e851b400-6708-11eb-8510-ab9e982c70a6.png)
+
+아래 레이어에서 속성을클릭하고 
+
+![image-20210204165052788](C:\Users\lodics\AppData\Roaming\Typora\typora-user-images\image-20210204165052788.png)
+
+이렇게 라벨을 표시할 수 가있는데
+
+라벨에 A25번째 값을 넣어줍니다. A25번이 건물 나이 컬럼입니다.
+
+
+
+뭐 결과적으로는 
+
+
+
+![image](https://user-images.githubusercontent.com/48937399/106861566-454d6a00-6709-11eb-984c-22108fff8aaf.png)
+
+
+
+이런모양이 됩니다
+
+
+
+이제 여기서 무언가 더 해볼 방법을 찾아보겠습니다! 
